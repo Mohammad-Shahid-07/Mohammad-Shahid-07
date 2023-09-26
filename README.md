@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- ⚡ Fun fact: React is not the same as Next
 <!--
 **Mohammad-Shahid-07/Mohammad-Shahid-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
