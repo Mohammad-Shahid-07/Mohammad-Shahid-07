@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shaid</h1>
 <h3 align="center" style="color: #98FB98;">I like automating processes and creating intuitive user experiences. Constantly exploring the latest UI trends, I love crafting sleek and efficient interfaces that delight users.</h3>
 
-- 🔭 I'm currently working on [Auth Rush](https://auth-rush.vercel.app/)
+- 🔭 I'm currently working on [Auth Rush](https://authrush.com/)
 
 - 👨‍💻 All of my projects are available at [https://mohammadshahid.vercel.app/](https://mohammadshahid.vercel.app/)
 
