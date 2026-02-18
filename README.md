@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, nextjs, mongodb**
 
-- 📫 How to reach me **shahidmohammad@gmail.com**
+- 📫 How to reach me **shahid0mohammad@gmail.com**
 
 - 📄 Know about my experiences [http://mohammadshahid.vercel.app/resume.pdf](http://mohammadshahid.vercel.app/resume.pdf)
 
